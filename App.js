@@ -8,7 +8,7 @@ export default function App(){
     <View>
       <Navbar />
       <Button style={estilo.btn}
-        title='oi'
+        title='Camera'
         onPress={()=>Alert.alert('Foto','foto tirada')} 
         
       />
